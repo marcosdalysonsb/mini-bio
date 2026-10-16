@@ -2,6 +2,7 @@
   "expo": {
     "name": "pwm-2026-2-expo-01",
     "slug": "pwm-2026-2-expo-01",
+    "owner": "mateusjoses-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +38,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c88ef72a-ac66-4632-b603-f5a778e51de1"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c88ef72a-ac66-4632-b603-f5a778e51de1"
     }
   }
 }
