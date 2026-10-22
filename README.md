@@ -25,7 +25,6 @@ Este projeto consiste em um **Card de Perfil (Mini Bio)** desenvolvido em **Reac
 | :--- | :--- |
 | **React Native** | Framework de desenvolvimento mobile |
 | **TypeScript (TSX)** | Tipagem estática e lógica |
-| **StyleSheet** | Estilização nativa e efeitos de brilho |
 | **Expo** | Plataforma e ambiente de desenvolvimento |
 
 ---
