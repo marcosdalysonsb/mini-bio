@@ -35,4 +35,4 @@ Este projeto consiste em um **Card de Perfil (Mini Bio)** desenvolvido em **Reac
 - 👤 **Foto de perfil com destaques visuais** e borda iluminada.
 - 🎓 **Badges com informações acadêmicas** (Curso e Período).
 - 📜 **Mini biografia resumida e objetiva**.
-- 🎨 **Design escuro moderno (Dark Mode)** com efeito de brilho e profundidade.
+
