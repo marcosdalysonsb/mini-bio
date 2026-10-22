@@ -14,7 +14,6 @@ Este projeto consiste em um **Card de Perfil (Mini Bio)** desenvolvido em **Reac
 
 - Criar uma apresentação pessoal moderna e minimalista;
 - Destacar formação acadêmica e busca por estágio;
-- Praticar estilização avançada com Flexbox e sombras no React Native;
 - Desenvolver um componente responsivo para dispositivos móveis.
 
 ---
