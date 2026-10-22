@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "pwm-2026-2-expo-01",
-    "slug": "pwm-2026-2-expo-01",
+    "name": "Mini Bio",
+    "slug": "mini-bio",
     "owner": "mateusjoses-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "pwm20262expo01",
+    "scheme": "mini-bio",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
